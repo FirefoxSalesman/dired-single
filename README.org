@@ -1,0 +1,12 @@
+Dired single is a recreation of the original dired-single, which recently dissapear from MELPA
+
+* What is it?
+This package provides commands that let you navigate dired in a single buffer
+
+* Commands
++ =dired-single-prev=- Go up a directory
++ =dired-single-next=- Visit the file or directory at point
+
+* Installation
++ Put dired single in your loadpath
++ Put =(require 'dired-single)= in your init.el
